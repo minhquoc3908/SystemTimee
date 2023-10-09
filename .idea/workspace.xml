@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7430e51-4d3d-4d7a-889a-e014b8c266fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SystemTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
-    </list>
+    <list default="true" id="e7430e51-4d3d-4d7a-889a-e014b8c266fe" name="Changes" comment="hjjk" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696836989781</updated>
       <workItem from="1696836990799" duration="16000" />
-      <workItem from="1696837019604" duration="1306000" />
+      <workItem from="1696837019604" duration="1704000" />
     </task>
     <servers />
   </component>
@@ -92,6 +83,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hjjk" />
+    <option name="LAST_COMMIT_MESSAGE" value="hjjk" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
